@@ -1,6 +1,6 @@
 # 🌸 Water me 🌸
 [originally made 3/2024, small updates 11/2024]<br />
-[**comment 11/2024**: nowadays I have different approach<br />
+[**comment 11/2024**: nowadays I have a different approach<br />
 with the structures, styling and JS but it worked then...and the game is playable 😊]
 
 ![Water me](./resurssit/kuvat/header.png)
