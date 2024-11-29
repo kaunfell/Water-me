@@ -87,7 +87,7 @@ plantContainer.addEventListener('drop', function(event) {
 
 
         currentImageIndex++;
-        if(currentImageIndex >= images.length) {
+        if(currentImageIndex == images.length -1) {
             parentContainer.appendChild(againButton);
         }
 
